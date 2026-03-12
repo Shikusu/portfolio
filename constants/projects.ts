@@ -13,7 +13,7 @@ export const projects = [
     tags: ["Java", "Android Studio", "OCR"],
     emoji: "📱",
     accent: "#3b82f6",
-    link: "#",
+    link: "https://drive.google.com/file/d/1iOmqYnOMrMSeaQhv9osi5JaiY9LkgFxG/view?usp=sharing",
   },
   {
     title: "Maestria Configuration Automation",
