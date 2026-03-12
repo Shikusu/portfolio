@@ -1,0 +1,18 @@
+export const marqueeItems = [
+  "React",
+  "Next.js",
+  "TypeScript",
+  "Spring Boot",
+  "React Native",
+  "Firebase",
+  "Django",
+  "FastAPI",
+  "Laravel",
+  "Figma",
+  "Tailwind",
+  "Android",
+  "Canva",
+  "Inkscape",
+  "GIMP",
+  "Keycloak",
+];
