@@ -5,7 +5,7 @@ export const projects = [
     tags: ["React Native", "TypeScript", "Mobile Game"],
     emoji: "🌱",
     accent: "#22c55e",
-    link: "#",
+    link: "https://drive.google.com/file/d/1YSk3YW9kItL0pVjYyLJ2MTtK9oyNvlz-/view?usp=sharing",
   },
   {
     title: "Mobile Recharge Card Scanner",
