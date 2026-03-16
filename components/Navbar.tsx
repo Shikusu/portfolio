@@ -7,7 +7,7 @@ const links = [
   { label: "About me", href: "#about" },
   { label: "Some of my projects", href: "#projects" },
   { label: "My skills", href: "#skills" },
-  { label: "Harass me here", href: "#contact" },
+  { label: "My contacts", href: "#contact" },
 ];
 
 const sections = ["about", "projects", "skills", "contact"];
