@@ -15,4 +15,13 @@ export const marqueeItems = [
   "Inkscape",
   "GIMP",
   "Keycloak",
+  "Python",
+  "Java",
+  "PHP",
+  "SQL",
+  "JavaCard",
+  "Thymeleaf",
+  "GitHub",
+  "Windev",
+  "Flutter",
 ];

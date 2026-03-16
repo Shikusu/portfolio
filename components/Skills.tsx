@@ -58,21 +58,6 @@ export default function Skills() {
                     <div className="flex justify-between text-sm mb-2">
                       <span className="text-foreground">{skill.name}</span>
                     </div>
-                    <div className="h-1.5 rounded-full bg-(--border) overflow-hidden">
-                      <motion.div
-                        initial={{ width: 0 }}
-                        animate={inView ? { width: `${skill.level}%` } : {}}
-                        transition={{
-                          delay: 0.3 + 0.1 * si + 0.2 * gi,
-                          duration: 1,
-                          ease: "easeOut",
-                        }}
-                        className="h-full rounded-full"
-                        style={{
-                          background: `linear-gradient(90deg, ${group.color}, ${group.color}88)`,
-                        }}
-                      />
-                    </div>
                   </div>
                 ))}
               </div>
