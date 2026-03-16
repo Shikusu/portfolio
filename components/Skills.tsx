@@ -57,7 +57,6 @@ export default function Skills() {
                   <div key={skill.name}>
                     <div className="flex justify-between text-sm mb-2">
                       <span className="text-foreground">{skill.name}</span>
-                      <span className="text-(--muted)">{skill.level}%</span>
                     </div>
                     <div className="h-1.5 rounded-full bg-(--border) overflow-hidden">
                       <motion.div
